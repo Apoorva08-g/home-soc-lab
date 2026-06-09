@@ -1,4 +1,4 @@
-# home-soc-lab
+# Home-soc-lab
 
 ## Overview
 A home Security Operations Center (SOC) lab built to 
