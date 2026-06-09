@@ -25,6 +25,7 @@ reports to simulate real SOC analyst workflows.
 | Attack | Tool | MITRE Technique | Report |
 |--------|------|----------------|--------|
 | SSH Brute Force | Hydra | T1110.001 | [IR-001](reports/IR-001-SSH-Brute-Force.md) |
+| Nmap Reconnaissance | Nmap | T1046 | coming soon |
 
 
 ## Custom Detection Rules
