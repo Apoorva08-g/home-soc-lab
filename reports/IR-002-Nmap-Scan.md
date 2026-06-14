@@ -31,6 +31,6 @@ Custom Rule Created
 </rule>
 ```
 
-Conclusion
+Conclusion:
 Default Wazuh ruleset did not detect reconnaissance scans. A custom rule was developed and deployed, successfully closing this detection gap. Recommend adding similar custom rules for other scan types (SYN scan, UDP scan) and reviewing default ruleset 
 coverage periodically.
