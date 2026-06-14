@@ -1,4 +1,4 @@
-Incident Report 002 — Nmap Reconnaissance Scan Detected
+INCIDENT RESPONSE REPORT 002
 
 Date: 05/06/2026
 Severity: Medium
